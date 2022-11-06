@@ -7,6 +7,7 @@ In this workshop, you will learn how :
  * Chat with the bot to verify the code is working
  * Add Chit-chat personality at your knowledge base
   
+## Project Link: "https://teams.microsoft.com/_#/conversations/19:a3c63e5b-8b25-42ad-80b9-9fae2104918c_8bc39e65-3369-48c2-98c0-dd494e256acd@unq.gbl.spaces?ctx=chat"  
 ## Pre-requisites
 
 * Azure Pass or subscription - [Try it for Free](https://azure.microsoft.com/en-gb/)
